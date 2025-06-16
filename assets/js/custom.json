@@ -1,0 +1,40 @@
+{
+    "subtitles": [
+		"Software Engineer",
+		"Quick Learner",
+		"Web Developer"
+		
+    ],
+    "skills": [
+        {
+            "name": "C++",
+			"label": "C",
+            "desc": "I have understanding of DSA ansd OOP in C++"
+        },
+	    {
+            "name": "WordPress Development",
+			"label": "WD",
+            "desc": "I have designed and developed WordPress website in my Intership"
+        },
+		{
+            "name": "HTML/CSS",
+			"label": "HC",
+            "desc": "I have enough hand on experience on html/css"
+        },
+		{
+            "name": "Python",
+		   "label": "Python",
+            "desc": "I also have some experience of working in Django/Flask frameworks"
+        },
+        
+        {
+            "name": "Django",
+		 "label": "Django",
+            "desc": "I have some experience as Djang Developer"
+        },
+        {
+            "name": "SQL", "label": "SQL",
+            "desc": "SQL Server / MySql / PostgreSQL"
+        }
+    ]
+}
